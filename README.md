@@ -1,6 +1,5 @@
 # code_refactor
-1st Homework Assignment
+The purpose of this project is to edit the css code to clean it up with simple edits.
 
 
-Write this later.
 
